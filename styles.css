@@ -1,0 +1,20 @@
+body {
+  background-color: #383d4c;
+}
+
+.es-text__info-description-header {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  color: color($colors, text_black);
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	font-size: 12px;
+}
+
+.es-text__info-description {
+  color: color($colors, text_black);
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 12px;
+}
