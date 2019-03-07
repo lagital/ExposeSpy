@@ -15,6 +15,8 @@ h1 {
   font-weight: 600;
   line-height: normal;
   font-size: 12px;
+  text-align: left;
+  margin-left: 10%;
 }
 
 .es-text__info-description {
@@ -24,4 +26,6 @@ h1 {
   font-weight: 300;
   line-height: normal;
   font-size: 12px;
+  text-align: left;
+  margin-left: 10%;
 }
